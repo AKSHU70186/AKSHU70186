@@ -10,5 +10,11 @@
   },
   "dependencies": {
     "node-sass": "^9.0.0"
-  }
+  },
+  "description": "- 👋 Hi, I’m @AKASH_coder00 - 👀 I’m interested in coding. - 🌱 I’m currently learning Full stack development. - 💞️ I’m looking to collaborate.",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
