@@ -39,4 +39,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-thakur-3abb2b2b5"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="file:///home/akashthakur/Downloads/AkashResume%20(1).pdf"><img src="https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="https://AKSHU70186.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
+
