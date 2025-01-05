@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hello, I'm Akash 👋</h1>
-<h3 align="center">Full Stack Developer | Gurugram </h3>
+<h1 align="center">Hello, I'm Akash Thakur 👋</h1>
+<h3 align="center">Full Stack Developer | Gurugram, Haryana, India</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
@@ -9,11 +9,11 @@
 
 <!-- About Section -->
 ## About Me
-- 🔭 I’m currently working on **Web Scraping**
-- 🌱 I’m currently learning **[Technology/Language]**
+- 🔭 I’m currently working on **[Your Project]**
+- 🌱 I’m currently learning **Node.js**
 - 👯 I’m looking to collaborate on **[Open Source Projects]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me **[akthakur8080@gmail.com]**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, and RESTful APIs**
+- 📫 How to reach me **[Your Email]**
 - ⚡ Fun fact **[Something Interesting About You]**
 
 <!-- GitHub Stats -->
@@ -37,7 +37,6 @@
 <!-- Connect with Me -->
 ## Connect with Me
 <p align="center">
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[Your Twitter URL]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="[Your Portfolio URL]"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/akash-thakur-3abb2b2b5"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="file:///home/akashthakur/Downloads/AkashResume%20(1).pdf"><img src="https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
