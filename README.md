@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
-<h3 align="center">Full Stack Developer | [Your Location]</h3>
+<h1 align="center">Hello, I'm Akash 👋</h1>
+<h3 align="center">Full Stack Developer | Gurugram </h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
@@ -9,7 +9,7 @@
 
 <!-- About Section -->
 ## About Me
-- 🔭 I’m currently working on **[Your Project]**
+- 🔭 I’m currently working on **Web Scraping**
 - 🌱 I’m currently learning **[Technology/Language]**
 - 👯 I’m looking to collaborate on **[Open Source Projects]**
 - 💬 Ask me about **[Your Expertise]**
