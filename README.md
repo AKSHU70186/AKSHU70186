@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=1C71FA&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Thakur" alt="Animated Greetings" />
   
   <!-- Your animated position -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=900&height=50&lines=A+passionate+Full+Stack+Developer+from+Gurugram%2C+Haryana" alt="Animated Position" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=900&height=50&lines=A+Passionate+Full+Stack+Developer+from+Gurugram%2C+Haryana" alt="Animated Position" />
 </p>
 
 
@@ -13,11 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=akashthakur8080&label=Profile%20views&color=0e75b6&style=flat" alt="akashthakur8080" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/akashthakur8080?tab=followers">
-    <img src="https://img.shields.io/github/followers/akashthakur8080?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-</p>
 
 ---
 
