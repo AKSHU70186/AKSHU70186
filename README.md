@@ -66,19 +66,20 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashthakur8080&show_icons=true&theme=tokyonight&hide_border=true" alt="Akash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashthakur8080&theme=tokyonight&hide_border=true" alt="Akash's GitHub Streak" width="48%" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKSHU70186&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akash's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashthakur8080&theme=tokyonight" alt="Akash's Profile Summary" width="100%" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKSHU70186&show_icons=true&locale=en&theme=tokyonight" alt="Akash's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=akashthakur8080&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHU70186&theme=tokyonight" alt="Akash's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashthakur8080&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Akash's Top Languages" width="50%" />
-</p>
+---
+
+### 🐍 Watch a Snake Eat My GitHub Contributions:
+
+![snake gif](https://github.com/AKSHU70186/AKSHU70186/blob/output/github-snake-dark.svg)
