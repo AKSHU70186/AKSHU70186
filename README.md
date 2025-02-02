@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akash Thakur</h1>
-<h3 align="center">A passionate Full Stack Developer from Gurugram, Haryana</h3>
+<!-- Animated Name and Position -->
+<p align="center">
+  <!-- Akash Thakur -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=1C71FA&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Thakur" alt="Animated Greetings" />
+  
+  <!-- A Passionate Full Stack Developer  -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+Full+Stack+Developer+from+Gurugram%2C+Haryana" alt="Animated Position" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashthakur8080&label=Profile%20views&color=0e75b6&style=flat" alt="akashthakur8080" />
@@ -66,55 +72,18 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashthakur8080&show_icons=true&locale=en&theme=tokyonight" alt="Akash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashthakur8080&theme=tokyonight" alt="Akash's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashthakur8080&show_icons=true&theme=tokyonight&hide_border=true" alt="Akash's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashthakur8080&theme=tokyonight&hide_border=true" alt="Akash's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashthakur8080&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akash's Top Languages" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashthakur8080&theme=tokyonight" alt="Akash's Profile Summary" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=akashthakur8080&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</p>
 
-<!-- Optionally, add the snake animation if desired -->
-<!-- ![snake gif](https://github.com/akashthakur8080/akashthakur8080/blob/output/github-snake-dark.svg) -->
-
----
-
-*Let's connect and collaborate to build amazing things together!*
-
----
-
-**Next Steps:**
-
-- **GitHub Username:** Ensure that you replace `akashthakur8080` with your actual GitHub username in the stats URLs if it differs.
-
-- **Add More Social Links:** If you have other social media profiles or platforms you'd like to include, feel free to add them in the **Connect with Me** section.
-
-- **Customize the Fun Fact:** You can personalize the fun fact to something that resonates more with you.
-
-- **Highlight Projects:** Consider adding a **Top Projects** section to showcase some of your work.
-
----
-
-### 🔗 Helpful Resources:
-
-- **Markdown Guide:** [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) to enhance your README formatting.
-
-- **Shields.io Badges:** Customize badges using [Shields.io](https://shields.io/).
-
-- **GitHub Stats Widget:** Explore more themes and options at [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
----
-
-### 💡 Tips to Enhance Your Profile:
-
-- **Include a Personal Quote:** Add a quote or motto that inspires you.
-
-- **Add Visuals:** Incorporate images or GIFs that represent your work or personality.
-
-- **Keep It Updated:** Regularly update your README to reflect new skills, projects, or achievements.
-
----
-
-Feel free to copy this code into your `README.md` file in your GitHub profile repository. If you have any questions or need further customization, don't hesitate to let me know. Let's make your GitHub profile a compelling reflection of your journey as a developer![_{{{CITATION{{{_1{](https://github.com/clearskay/clearskay/tree/ed9d25a47305d7f693666156cbbdc93e65a9fc09/README.md)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashthakur8080&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Akash's Top Languages" width="50%" />
+</p>
