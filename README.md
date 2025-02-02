@@ -20,10 +20,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Full Stack Projects**
+
 - 🌱 I’m currently learning **Node.js**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, RESTful APIs**
 - 📫 How to reach me **[akthakur8080@gmail.com](mailto:akthakur8080@gmail.com)**
 - ⚡ Fun fact: **I believe that blending technology and creativity can solve real-world problems!**
 
