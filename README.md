@@ -1,12 +1,13 @@
 <!-- Animated Name and Position -->
 <p align="center">
   <!-- Akash Thakur -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=1C71FA&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Thakur" alt="Animated Greetings" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=1C71FA&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Thakur" alt="Animated Greetings" />
   
-  <!-- A Passionate Full Stack Developer  -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+Full+Stack+Developer+from+Gurugram%2C+Haryana" alt="Animated Position" />
+  <!-- A Passionate Full Stack Developer -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=700&height=50&lines=A+passionate+Full+Stack+Developer+from+Gurugram%2C+Haryana" alt="Animated Position" />
 </p>
 
+<!-- Profile Views and Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashthakur8080&label=Profile%20views&color=0e75b6&style=flat" alt="akashthakur8080" />
 </p>
