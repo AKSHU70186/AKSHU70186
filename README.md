@@ -15,71 +15,34 @@
 
 
 ---
+# 💫 About Me:
+🌱 I’m currently learning Node.js<br>📫 How to reach me akthakur8080@gmail.com<br>⚡ Fun fact: I believe that blending technology and creativity can solve real-world problems!
 
 
-- 🌱 I’m currently learning **Node.js**
-- 📫 How to reach me **[akthakur8080@gmail.com](mailto:akthakur8080@gmail.com)**
-- ⚡ Fun fact: **I believe that blending technology and creativity can solve real-world problems!**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-thakur-3abb2b2b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akthakur8080@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AKSHU70186&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AKSHU70186&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHU70186&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🌐 Connect with Me:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AKSHU70186&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akash-thakur-3abb2b2b5" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- You can add more social media links here -->
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/RESTful%20APIs-000000?style=flat&logo=rest&logoColor=white" alt="RESTful APIs" />
-  </a>
-  <!-- Currently learning -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AKSHU70186&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AKSHU70186&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKSHU70186&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akash's Top Languages" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKSHU70186&show_icons=true&locale=en&theme=tokyonight" alt="Akash's GitHub Stats" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHU70186&theme=tokyonight" alt="Akash's GitHub Streak" />
-</p>
 
----
-
-### 🐍 Watch a Snake Eat My GitHub Contributions:
-
-![snake gif](https://github.com/AKSHU70186/AKSHU70186/blob/output/github-snake-dark.svg)
